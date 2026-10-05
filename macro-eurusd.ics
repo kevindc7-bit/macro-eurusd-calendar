@@ -10,62 +10,106 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:be6ee37602c1555c4bc9@macro-eurusd
-DTSTAMP:20261005T161922Z
+DTSTAMP:20261005T163847Z
 DTSTART:20261005T140000Z
 DTEND:20261005T143000Z
 SUMMARY:🟡 [USD] ISM Services PMI
-DESCRIPTION:Impacto: MEDIO\nPrevisión: 55.1\nPrevio: 55.4\nFuente: Forex 
- Factory
+DESCRIPTION:Impacto: MEDIO 🟡\n\nPrevisión: 55.1 | Previo: 55.4\n\n📊
+  Qué mide: Encuesta a gerentes del sector servicios (~80% del PIB de EE.
+ UU.). >50 expansión\, <50 contracción.\n\n📖 Cómo leerlo: Dato MAYOR
+  que la previsión = bueno para el USD = EUR/USD tiende a BAJAR. Dato MEN
+ OR = malo para el USD = EUR/USD tiende a SUBIR.\n\n🛡️ Regla: Evita e
+ ntrar 15 min antes. Si ya estás dentro\, revisa tu stop. Solo mueve el p
+ recio si sorprende mucho frente a la previsión: no cambies tu sesgo téc
+ nico por este dato\, úsalo como contexto.\n\n🔴 alto · 🟡 medio · 
+ ⚪ bajo | Fuente: Forex Factory
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:16e026e30540bc7835f7@macro-eurusd
-DTSTAMP:20261005T161922Z
+DTSTAMP:20261005T163847Z
 DTSTART:20261007T180000Z
 DTEND:20261007T183000Z
 SUMMARY:🔴 [USD] FOMC Meeting Minutes
-DESCRIPTION:Impacto: ALTO\nPrevisión: —\nPrevio: —\nFuente: Forex Fac
- tory
+DESCRIPTION:Impacto: ALTO 🔴\n\nPrevisión: — | Previo: —\n\n📊 Qu
+ é mide: Actas detalladas de la última reunión de la Fed (salen ~3 sema
+ nas después).\n\n📖 Cómo leerlo: No hay número: importa el TONO. Haw
+ kish (preocupación por inflación\, tasas altas por más tiempo) = USD f
+ uerte = EUR/USD tiende a BAJAR. Dovish (recortes\, preocupación por el c
+ recimiento) = USD débil = EUR/USD tiende a SUBIR.\n\n🛡️ Regla: No a
+ bras posiciones 30 min antes ni 15 min después. Los spreads se amplían 
+ y se barren stops. Si ya estás dentro\, protege (stop a break-even o red
+ uce). Espera el cierre de la vela de 15 min y lee la reacción dentro de 
+ tu contexto MATVARD.\n\n🔴 alto · 🟡 medio · ⚪ bajo | Fuente: For
+ ex Factory
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:d211ff5db19532f410d1@macro-eurusd
-DTSTAMP:20261005T161922Z
+DTSTAMP:20261005T163847Z
 DTSTART:20261008T083000Z
 DTEND:20261008T090000Z
 SUMMARY:🟡 [USD] FOMC Member Waller Speaks
-DESCRIPTION:Impacto: MEDIO\nPrevisión: —\nPrevio: —\nFuente: Forex Fa
- ctory
+DESCRIPTION:Impacto: MEDIO 🟡\n\nPrevisión: — | Previo: —\n\n📊 Q
+ ué mide: Discurso de un miembro del banco central. Busca pistas sobre la
+ s próximas decisiones de tasas.\n\n📖 Cómo leerlo: No hay número: im
+ porta el TONO. Hawkish (preocupación por inflación\, tasas altas por m
+ ás tiempo) = USD fuerte = EUR/USD tiende a BAJAR. Dovish (recortes\, pre
+ ocupación por el crecimiento) = USD débil = EUR/USD tiende a SUBIR.\n\n
+ 🛡️ Regla: Evita entrar 15 min antes. Si ya estás dentro\, revisa tu
+  stop. Solo mueve el precio si sorprende mucho frente a la previsión: no
+  cambies tu sesgo técnico por este dato\, úsalo como contexto.\n\n🔴 
+ alto · 🟡 medio · ⚪ bajo | Fuente: Forex Factory
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:31c887edc0c14fb79382@macro-eurusd
-DTSTAMP:20261005T161922Z
+DTSTAMP:20261005T163847Z
 DTSTART:20261008T123000Z
 DTEND:20261008T130000Z
 SUMMARY:🟡 [USD] Unemployment Claims
-DESCRIPTION:Impacto: MEDIO\nPrevisión: 200K\nPrevio: 197K\nFuente: Forex 
- Factory
+DESCRIPTION:Impacto: MEDIO 🟡\n\nPrevisión: 200K | Previo: 197K\n\n📊
+  Qué mide: Personas que pidieron subsidio de desempleo por primera vez e
+ n la semana. Termómetro semanal del empleo.\n\n📖 Cómo leerlo: ⚠️
+  Indicador INVERSO. Dato MENOR que la previsión = bueno para el USD = EU
+ R/USD tiende a BAJAR. Dato MAYOR = malo para el USD = EUR/USD tiende a SU
+ BIR.\n\n🛡️ Regla: Evita entrar 15 min antes. Si ya estás dentro\, r
+ evisa tu stop. Solo mueve el precio si sorprende mucho frente a la previs
+ ión: no cambies tu sesgo técnico por este dato\, úsalo como contexto.\
+ n\n🔴 alto · 🟡 medio · ⚪ bajo | Fuente: Forex Factory
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:92c64c432eb430a19fe4@macro-eurusd
-DTSTAMP:20261005T161922Z
+DTSTAMP:20261005T163847Z
 DTSTART:20261009T140000Z
 DTEND:20261009T143000Z
 SUMMARY:🟡 [USD] Prelim UoM Consumer Sentiment
-DESCRIPTION:Impacto: MEDIO\nPrevisión: 47.6\nPrevio: 47.8\nFuente: Forex 
- Factory
+DESCRIPTION:Impacto: MEDIO 🟡\n\nPrevisión: 47.6 | Previo: 47.8\n\n📊
+  Qué mide: Confianza del consumidor: qué tan optimistas están los hoga
+ res.\n\n📖 Cómo leerlo: Dato MAYOR que la previsión = bueno para el U
+ SD = EUR/USD tiende a BAJAR. Dato MENOR = malo para el USD = EUR/USD tien
+ de a SUBIR.\n\n🛡️ Regla: Evita entrar 15 min antes. Si ya estás den
+ tro\, revisa tu stop. Solo mueve el precio si sorprende mucho frente a la
+  previsión: no cambies tu sesgo técnico por este dato\, úsalo como con
+ texto.\n\n🔴 alto · 🟡 medio · ⚪ bajo | Fuente: Forex Factory
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:c2ca83cd0f0dfe8de38c@macro-eurusd
-DTSTAMP:20261005T161922Z
+DTSTAMP:20261005T163847Z
 DTSTART:20261009T140000Z
 DTEND:20261009T143000Z
 SUMMARY:🟡 [USD] Prelim UoM Inflation Expectations
-DESCRIPTION:Impacto: MEDIO\nPrevisión: —\nPrevio: 4.6%\nFuente: Forex F
- actory
+DESCRIPTION:Impacto: MEDIO 🟡\n\nPrevisión: — | Previo: 4.6%\n\n📊 
+ Qué mide: Inflación que esperan los consumidores. Si sube\, preocupa al
+  banco central.\n\n📖 Cómo leerlo: Dato MAYOR que la previsión = buen
+ o para el USD = EUR/USD tiende a BAJAR. Dato MENOR = malo para el USD = E
+ UR/USD tiende a SUBIR.\n\n🛡️ Regla: Evita entrar 15 min antes. Si ya
+  estás dentro\, revisa tu stop. Solo mueve el precio si sorprende mucho 
+ frente a la previsión: no cambies tu sesgo técnico por este dato\, úsa
+ lo como contexto.\n\n🔴 alto · 🟡 medio · ⚪ bajo | Fuente: Forex 
+ Factory
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
