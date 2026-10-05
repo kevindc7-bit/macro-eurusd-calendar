@@ -1,0 +1,50 @@
+{
+ "16e026e30540bc7835f7@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-07T14:00:00-04:00",
+  "forecast": "",
+  "impact": "High",
+  "previous": "",
+  "title": "FOMC Meeting Minutes"
+ },
+ "31c887edc0c14fb79382@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-08T08:30:00-04:00",
+  "forecast": "200K",
+  "impact": "Medium",
+  "previous": "197K",
+  "title": "Unemployment Claims"
+ },
+ "92c64c432eb430a19fe4@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-09T10:00:00-04:00",
+  "forecast": "47.6",
+  "impact": "Medium",
+  "previous": "47.8",
+  "title": "Prelim UoM Consumer Sentiment"
+ },
+ "be6ee37602c1555c4bc9@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-05T10:00:00-04:00",
+  "forecast": "55.1",
+  "impact": "Medium",
+  "previous": "55.4",
+  "title": "ISM Services PMI"
+ },
+ "c2ca83cd0f0dfe8de38c@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-09T10:00:00-04:00",
+  "forecast": "",
+  "impact": "Medium",
+  "previous": "4.6%",
+  "title": "Prelim UoM Inflation Expectations"
+ },
+ "d211ff5db19532f410d1@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-08T04:30:00-04:00",
+  "forecast": "",
+  "impact": "Medium",
+  "previous": "",
+  "title": "FOMC Member Waller Speaks"
+ }
+}
