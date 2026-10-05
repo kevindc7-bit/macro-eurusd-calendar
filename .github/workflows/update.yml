@@ -1,0 +1,34 @@
+name: Actualizar calendario Macro EUR/USD
+
+on:
+  schedule:
+    - cron: "0 11 * * *"   # todos los días 06:00 Bogotá
+    - cron: "0 23 * * 0"   # domingo 18:00 Bogotá (semana nueva)
+  workflow_dispatch:        # botón "Run workflow" para ejecutarlo a mano
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generar calendario
+        env:
+          CURRENCIES: "EUR,USD"
+          IMPACTS: "High,Medium"
+        run: python build_calendar.py
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add macro-eurusd.ics events.json
+          git diff --cached --quiet || git commit -m "Actualizar calendario $(date -u +%F)"
+          git push
