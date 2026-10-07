@@ -15,10 +15,18 @@
   "previous": "197K",
   "title": "Unemployment Claims"
  },
+ "4cdf79b273ed6baa83ad@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-07T13:00:00-04:00",
+  "forecast": "",
+  "impact": "Medium",
+  "previous": "",
+  "title": "President Trump Speaks"
+ },
  "92c64c432eb430a19fe4@macro-eurusd": {
   "country": "USD",
   "date": "2026-10-09T10:00:00-04:00",
-  "forecast": "47.6",
+  "forecast": "47.5",
   "impact": "Medium",
   "previous": "47.8",
   "title": "Prelim UoM Consumer Sentiment"
