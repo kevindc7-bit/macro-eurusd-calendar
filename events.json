@@ -7,6 +7,14 @@
   "previous": "",
   "title": "FOMC Meeting Minutes"
  },
+ "1e4e6d429c1b3dec3c7d@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-14T08:30:00-04:00",
+  "forecast": "2.5%",
+  "impact": "High",
+  "previous": "2.4%",
+  "title": "Core CPI y/y"
+ },
  "31c887edc0c14fb79382@macro-eurusd": {
   "country": "USD",
   "date": "2026-10-08T08:30:00-04:00",
@@ -14,6 +22,14 @@
   "impact": "Medium",
   "previous": "197K",
   "title": "Unemployment Claims"
+ },
+ "38cc4900a45207b71b09@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-15T08:30:00-04:00",
+  "forecast": "0.3%",
+  "impact": "High",
+  "previous": "0.2%",
+  "title": "Core PPI m/m"
  },
  "4cdf79b273ed6baa83ad@macro-eurusd": {
   "country": "USD",
@@ -23,6 +39,22 @@
   "previous": "",
   "title": "President Trump Speaks"
  },
+ "5b1b9df3401df53313df@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-14T08:30:00-04:00",
+  "forecast": "3.6%",
+  "impact": "High",
+  "previous": "3.4%",
+  "title": "CPI y/y"
+ },
+ "7538fdaac77e9e5fd4ea@macro-eurusd": {
+  "country": "EUR",
+  "date": "2026-10-13T22:10:00-04:00",
+  "forecast": "",
+  "impact": "Medium",
+  "previous": "",
+  "title": "ECB President Lagarde Speaks"
+ },
  "92c64c432eb430a19fe4@macro-eurusd": {
   "country": "USD",
   "date": "2026-10-09T10:00:00-04:00",
@@ -30,6 +62,14 @@
   "impact": "Medium",
   "previous": "47.8",
   "title": "Prelim UoM Consumer Sentiment"
+ },
+ "9be758c19ff7f5101a71@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-15T08:30:00-04:00",
+  "forecast": "0.5%",
+  "impact": "High",
+  "previous": "1.4%",
+  "title": "Core Retail Sales m/m"
  },
  "be6ee37602c1555c4bc9@macro-eurusd": {
   "country": "USD",
@@ -39,6 +79,14 @@
   "previous": "55.4",
   "title": "ISM Services PMI"
  },
+ "c22d3e62c435efa57880@macro-eurusd": {
+  "country": "EUR",
+  "date": "2026-10-14T04:30:00-04:00",
+  "forecast": "",
+  "impact": "Medium",
+  "previous": "",
+  "title": "ECB President Lagarde Speaks"
+ },
  "c2ca83cd0f0dfe8de38c@macro-eurusd": {
   "country": "USD",
   "date": "2026-10-09T10:00:00-04:00",
@@ -47,6 +95,30 @@
   "previous": "4.6%",
   "title": "Prelim UoM Inflation Expectations"
  },
+ "c3e45b770ef30802bf0c@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-15T08:30:00-04:00",
+  "forecast": "0.3%",
+  "impact": "High",
+  "previous": "1.2%",
+  "title": "Retail Sales m/m"
+ },
+ "d00c40d7b86ffe18baa1@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-15T23:30:00-04:00",
+  "forecast": "",
+  "impact": "High",
+  "previous": "",
+  "title": "Fed Chairman Warsh Speaks"
+ },
+ "d0a5f4a0f2aa15449d4c@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-15T08:30:00-04:00",
+  "forecast": "0.5%",
+  "impact": "High",
+  "previous": "0.4%",
+  "title": "PPI m/m"
+ },
  "d211ff5db19532f410d1@macro-eurusd": {
   "country": "USD",
   "date": "2026-10-08T04:30:00-04:00",
@@ -54,5 +126,37 @@
   "impact": "Medium",
   "previous": "",
   "title": "FOMC Member Waller Speaks"
+ },
+ "e67c0b81b2408236fd4d@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-14T08:30:00-04:00",
+  "forecast": "0.2%",
+  "impact": "High",
+  "previous": "0.3%",
+  "title": "Core CPI m/m"
+ },
+ "e77d4bd6d5355ee63eed@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-15T08:30:00-04:00",
+  "forecast": "26.5",
+  "impact": "Medium",
+  "previous": "37.8",
+  "title": "Philly Fed Manufacturing Index"
+ },
+ "ef254651dcc5f99fcdb9@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-14T08:30:00-04:00",
+  "forecast": "0.6%",
+  "impact": "High",
+  "previous": "0.4%",
+  "title": "CPI m/m"
+ },
+ "f88b45edd0b3bf3dfb18@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-15T08:30:00-04:00",
+  "forecast": "195K",
+  "impact": "Medium",
+  "previous": "197K",
+  "title": "Unemployment Claims"
  }
 }
