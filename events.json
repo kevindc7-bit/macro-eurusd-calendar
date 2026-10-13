@@ -55,6 +55,14 @@
   "previous": "",
   "title": "ECB President Lagarde Speaks"
  },
+ "79279910c4e00f60de08@macro-eurusd": {
+  "country": "EUR",
+  "date": "2026-10-15T06:15:00-04:00",
+  "forecast": "",
+  "impact": "Medium",
+  "previous": "",
+  "title": "EU Economic Summit"
+ },
  "92c64c432eb430a19fe4@macro-eurusd": {
   "country": "USD",
   "date": "2026-10-09T10:00:00-04:00",
@@ -66,10 +74,18 @@
  "9be758c19ff7f5101a71@macro-eurusd": {
   "country": "USD",
   "date": "2026-10-15T08:30:00-04:00",
-  "forecast": "0.5%",
+  "forecast": "0.6%",
   "impact": "High",
   "previous": "1.4%",
   "title": "Core Retail Sales m/m"
+ },
+ "a77efdf0eee399607825@macro-eurusd": {
+  "country": "EUR",
+  "date": "2026-10-14T06:15:00-04:00",
+  "forecast": "",
+  "impact": "Medium",
+  "previous": "",
+  "title": "EU Economic Summit"
  },
  "be6ee37602c1555c4bc9@macro-eurusd": {
   "country": "USD",
@@ -114,7 +130,7 @@
  "d0a5f4a0f2aa15449d4c@macro-eurusd": {
   "country": "USD",
   "date": "2026-10-15T08:30:00-04:00",
-  "forecast": "0.5%",
+  "forecast": "0.6%",
   "impact": "High",
   "previous": "0.4%",
   "title": "PPI m/m"
@@ -138,7 +154,7 @@
  "e77d4bd6d5355ee63eed@macro-eurusd": {
   "country": "USD",
   "date": "2026-10-15T08:30:00-04:00",
-  "forecast": "26.5",
+  "forecast": "28.2",
   "impact": "Medium",
   "previous": "37.8",
   "title": "Philly Fed Manufacturing Index"
@@ -154,7 +170,7 @@
  "f88b45edd0b3bf3dfb18@macro-eurusd": {
   "country": "USD",
   "date": "2026-10-15T08:30:00-04:00",
-  "forecast": "195K",
+  "forecast": "199K",
   "impact": "Medium",
   "previous": "197K",
   "title": "Unemployment Claims"
