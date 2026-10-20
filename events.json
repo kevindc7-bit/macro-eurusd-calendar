@@ -34,7 +34,7 @@
  "35c4f5d10bec46ab9cb9@macro-eurusd": {
   "country": "EUR",
   "date": "2026-10-23T03:30:00-04:00",
-  "forecast": "52.6",
+  "forecast": "52.5",
   "impact": "Medium",
   "previous": "52.9",
   "title": "German Flash Services PMI"
@@ -66,7 +66,7 @@
  "58c8d887f30d3365cb8a@macro-eurusd": {
   "country": "USD",
   "date": "2026-10-23T09:45:00-04:00",
-  "forecast": "55.5",
+  "forecast": "55.4",
   "impact": "Medium",
   "previous": "57.0",
   "title": "Flash Manufacturing PMI"
@@ -98,7 +98,7 @@
  "7c40553c3bffc9d77a76@macro-eurusd": {
   "country": "USD",
   "date": "2026-10-23T09:45:00-04:00",
-  "forecast": "58.0",
+  "forecast": "57.8",
   "impact": "Medium",
   "previous": "58.7",
   "title": "Flash Services PMI"
@@ -122,7 +122,7 @@
  "9bd88d798dcfcf013dc5@macro-eurusd": {
   "country": "EUR",
   "date": "2026-10-23T03:15:00-04:00",
-  "forecast": "50.8",
+  "forecast": "50.7",
   "impact": "Medium",
   "previous": "51.4",
   "title": "French Flash Services PMI"
@@ -186,7 +186,7 @@
  "c9d666033caa075d8885@macro-eurusd": {
   "country": "EUR",
   "date": "2026-10-23T03:15:00-04:00",
-  "forecast": "50.6",
+  "forecast": "50.5",
   "impact": "Medium",
   "previous": "50.3",
   "title": "French Flash Manufacturing PMI"
