@@ -1,4 +1,12 @@
 {
+ "06c1f2feeab5d902f2e5@macro-eurusd": {
+  "country": "EUR",
+  "date": "2026-10-30T05:00:00-04:00",
+  "forecast": "0.1%",
+  "impact": "Medium",
+  "previous": "0.2%",
+  "title": "German Prelim GDP q/q"
+ },
  "1673b5ea31d2e9702afb@macro-eurusd": {
   "country": "USD",
   "date": "2026-10-23T10:00:00-04:00",
@@ -31,6 +39,14 @@
   "previous": "197K",
   "title": "Unemployment Claims"
  },
+ "33c12c5781d7a17bf0de@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-28T14:00:00-04:00",
+  "forecast": "",
+  "impact": "High",
+  "previous": "",
+  "title": "FOMC Statement"
+ },
  "35c4f5d10bec46ab9cb9@macro-eurusd": {
   "country": "EUR",
   "date": "2026-10-23T03:30:00-04:00",
@@ -46,6 +62,14 @@
   "impact": "High",
   "previous": "0.2%",
   "title": "Core PPI m/m"
+ },
+ "3f3904d80a910394d59f@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-28T14:30:00-04:00",
+  "forecast": "",
+  "impact": "High",
+  "previous": "",
+  "title": "FOMC Press Conference"
  },
  "43dc965af7ca97db58e1@macro-eurusd": {
   "country": "USD",
@@ -63,6 +87,14 @@
   "previous": "",
   "title": "President Trump Speaks"
  },
+ "4dff81c4d6e5cda2d493@macro-eurusd": {
+  "country": "EUR",
+  "date": "2026-10-30T02:29:00-04:00",
+  "forecast": "0.1%",
+  "impact": "Medium",
+  "previous": "0.6%",
+  "title": "German Prelim CPI m/m"
+ },
  "58c8d887f30d3365cb8a@macro-eurusd": {
   "country": "USD",
   "date": "2026-10-23T09:45:00-04:00",
@@ -78,6 +110,22 @@
   "impact": "High",
   "previous": "3.4%",
   "title": "CPI y/y"
+ },
+ "6fdf8defc2716333a7e0@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-29T08:30:00-04:00",
+  "forecast": "0.3%",
+  "impact": "High",
+  "previous": "0.2%",
+  "title": "Core PCE Price Index m/m"
+ },
+ "70cd8f0069a451d00756@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-27T10:00:00-04:00",
+  "forecast": "80.5",
+  "impact": "Medium",
+  "previous": "81.9",
+  "title": "CB Consumer Confidence"
  },
  "7538fdaac77e9e5fd4ea@macro-eurusd": {
   "country": "EUR",
@@ -119,6 +167,22 @@
   "previous": "199K",
   "title": "Unemployment Claims"
  },
+ "9745ff25605e1acd9261@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-29T08:30:00-04:00",
+  "forecast": "3.2%",
+  "impact": "High",
+  "previous": "1.5%",
+  "title": "Advance GDP q/q"
+ },
+ "9abcf4868afecd6198b1@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-29T08:30:00-04:00",
+  "forecast": "3.5%",
+  "impact": "Medium",
+  "previous": "6.2%",
+  "title": "Advance GDP Price Index q/q"
+ },
  "9bd88d798dcfcf013dc5@macro-eurusd": {
   "country": "EUR",
   "date": "2026-10-23T03:15:00-04:00",
@@ -150,6 +214,22 @@
   "impact": "Medium",
   "previous": "",
   "title": "EU Economic Summit"
+ },
+ "a8d0e5a5f2a7a6e3e5a3@macro-eurusd": {
+  "country": "EUR",
+  "date": "2026-10-29T09:15:00-04:00",
+  "forecast": "2.65%",
+  "impact": "High",
+  "previous": "2.65%",
+  "title": "Main Refinancing Rate"
+ },
+ "adc2d9f387dd6993ce03@macro-eurusd": {
+  "country": "EUR",
+  "date": "2026-10-29T09:15:00-04:00",
+  "forecast": "",
+  "impact": "High",
+  "previous": "",
+  "title": "Monetary Policy Statement"
  },
  "be6ee37602c1555c4bc9@macro-eurusd": {
   "country": "USD",
@@ -215,6 +295,14 @@
   "previous": "",
   "title": "FOMC Member Waller Speaks"
  },
+ "dfd8747edf319c749529@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-28T14:00:00-04:00",
+  "forecast": "4.00%",
+  "impact": "High",
+  "previous": "4.00%",
+  "title": "Federal Funds Rate"
+ },
  "e67c0b81b2408236fd4d@macro-eurusd": {
   "country": "USD",
   "date": "2026-10-14T08:30:00-04:00",
@@ -239,12 +327,36 @@
   "previous": "0.4%",
   "title": "CPI m/m"
  },
+ "f234204ebf92d647f774@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-30T08:30:00-04:00",
+  "forecast": "0.8%",
+  "impact": "Medium",
+  "previous": "0.9%",
+  "title": "Employment Cost Index q/q"
+ },
+ "f6ae68db3a2d8fdc7756@macro-eurusd": {
+  "country": "EUR",
+  "date": "2026-10-29T09:45:00-04:00",
+  "forecast": "",
+  "impact": "High",
+  "previous": "",
+  "title": "ECB Press Conference"
+ },
  "f88b45edd0b3bf3dfb18@macro-eurusd": {
   "country": "USD",
   "date": "2026-10-15T08:30:00-04:00",
   "forecast": "199K",
   "impact": "Medium",
   "previous": "197K",
+  "title": "Unemployment Claims"
+ },
+ "fcb855b51cb7a9de80d0@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-10-29T08:30:00-04:00",
+  "forecast": "198K",
+  "impact": "Medium",
+  "previous": "194K",
   "title": "Unemployment Claims"
  }
 }
