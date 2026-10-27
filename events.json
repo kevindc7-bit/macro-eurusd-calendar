@@ -89,7 +89,7 @@
  },
  "4dff81c4d6e5cda2d493@macro-eurusd": {
   "country": "EUR",
-  "date": "2026-10-30T02:29:00-04:00",
+  "date": "2026-10-30T03:29:00-04:00",
   "forecast": "0.1%",
   "impact": "Medium",
   "previous": "0.6%",
@@ -122,7 +122,7 @@
  "70cd8f0069a451d00756@macro-eurusd": {
   "country": "USD",
   "date": "2026-10-27T10:00:00-04:00",
-  "forecast": "80.7",
+  "forecast": "81.2",
   "impact": "Medium",
   "previous": "81.9",
   "title": "CB Consumer Confidence"
@@ -178,7 +178,7 @@
  "9abcf4868afecd6198b1@macro-eurusd": {
   "country": "USD",
   "date": "2026-10-29T08:30:00-04:00",
-  "forecast": "3.5%",
+  "forecast": "3.3%",
   "impact": "Medium",
   "previous": "6.2%",
   "title": "Advance GDP Price Index q/q"
