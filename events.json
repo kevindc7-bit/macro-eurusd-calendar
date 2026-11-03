@@ -58,7 +58,7 @@
  "33aa9b87956f35395a33@macro-eurusd": {
   "country": "USD",
   "date": "2026-11-06T08:30:00-05:00",
-  "forecast": "63K",
+  "forecast": "65K",
   "impact": "High",
   "previous": "29K",
   "title": "Non-Farm Employment Change"
@@ -82,7 +82,7 @@
  "35e817fbb28e8b417f9d@macro-eurusd": {
   "country": "USD",
   "date": "2026-11-06T10:00:00-05:00",
-  "forecast": "47.8",
+  "forecast": "48.1",
   "impact": "Medium",
   "previous": "46.3",
   "title": "Prelim UoM Consumer Sentiment"
@@ -298,7 +298,7 @@
  "b3aefc074d295945ce79@macro-eurusd": {
   "country": "USD",
   "date": "2026-11-03T10:00:00-05:00",
-  "forecast": "7.11M",
+  "forecast": "7.15M",
   "impact": "Medium",
   "previous": "7.08M",
   "title": "JOLTS Job Openings"
@@ -450,7 +450,7 @@
  "fcb2253c02b3ac6fa402@macro-eurusd": {
   "country": "USD",
   "date": "2026-11-04T10:00:00-05:00",
-  "forecast": "54.9",
+  "forecast": "54.8",
   "impact": "Medium",
   "previous": "54.9",
   "title": "ISM Services PMI"
