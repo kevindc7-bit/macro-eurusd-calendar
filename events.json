@@ -215,6 +215,14 @@
   "previous": "58.7",
   "title": "Flash Services PMI"
  },
+ "7c8c4dd723fce9bbc8df@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-11-10T04:00:00-05:00",
+  "forecast": "",
+  "impact": "Medium",
+  "previous": "",
+  "title": "FOMC Member Waller Speaks"
+ },
  "92c64c432eb430a19fe4@macro-eurusd": {
   "country": "USD",
   "date": "2026-10-09T10:00:00-04:00",
@@ -271,6 +279,14 @@
   "previous": "53.8",
   "title": "German Flash Manufacturing PMI"
  },
+ "a57109d88311699b2e41@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-11-13T08:30:00-05:00",
+  "forecast": "0.4%",
+  "impact": "High",
+  "previous": "1.3%",
+  "title": "PPI m/m"
+ },
  "a77efdf0eee399607825@macro-eurusd": {
   "country": "EUR",
   "date": "2026-10-14T06:15:00-04:00",
@@ -294,6 +310,14 @@
   "impact": "High",
   "previous": "",
   "title": "Monetary Policy Statement"
+ },
+ "af82f6717c659da8bdbb@macro-eurusd": {
+  "country": "EUR",
+  "date": "2026-11-12T14:30:00-05:00",
+  "forecast": "",
+  "impact": "Medium",
+  "previous": "",
+  "title": "ECB President Lagarde Speaks"
  },
  "b3aefc074d295945ce79@macro-eurusd": {
   "country": "USD",
@@ -327,6 +351,14 @@
   "previous": "4.6%",
   "title": "Prelim UoM Inflation Expectations"
  },
+ "c32bf5a59cc316c02b37@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-11-12T08:30:00-05:00",
+  "forecast": "194K",
+  "impact": "Medium",
+  "previous": "189K",
+  "title": "Unemployment Claims"
+ },
  "c3e45b770ef30802bf0c@macro-eurusd": {
   "country": "USD",
   "date": "2026-10-15T08:30:00-04:00",
@@ -342,6 +374,14 @@
   "impact": "Medium",
   "previous": "",
   "title": "ECB President Lagarde Speaks"
+ },
+ "c50148be2a2401b016c9@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-11-13T08:30:00-05:00",
+  "forecast": "0.3%",
+  "impact": "High",
+  "previous": "0.7%",
+  "title": "Core PPI m/m"
  },
  "c9d666033caa075d8885@macro-eurusd": {
   "country": "EUR",
@@ -431,6 +471,14 @@
   "previous": "0.9%",
   "title": "Employment Cost Index q/q"
  },
+ "f45ea02886569a925730@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-11-10T08:30:00-05:00",
+  "forecast": "0.3%",
+  "impact": "High",
+  "previous": "0.6%",
+  "title": "CPI m/m"
+ },
  "f6ae68db3a2d8fdc7756@macro-eurusd": {
   "country": "EUR",
   "date": "2026-10-29T09:45:00-04:00",
@@ -446,6 +494,14 @@
   "impact": "Medium",
   "previous": "197K",
   "title": "Unemployment Claims"
+ },
+ "fb35138dca632d229b8e@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-11-10T08:30:00-05:00",
+  "forecast": "0.2%",
+  "impact": "High",
+  "previous": "0.3%",
+  "title": "Core CPI m/m"
  },
  "fcb2253c02b3ac6fa402@macro-eurusd": {
   "country": "USD",
