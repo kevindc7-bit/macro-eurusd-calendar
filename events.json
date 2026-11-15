@@ -47,6 +47,22 @@
   "previous": "2.4%",
   "title": "Core CPI y/y"
  },
+ "2aae28a6585712cdb803@macro-eurusd": {
+  "country": "EUR",
+  "date": "2026-11-18T09:25:00-05:00",
+  "forecast": "",
+  "impact": "Medium",
+  "previous": "",
+  "title": "ECB President Lagarde Speaks"
+ },
+ "2b20a2ff74b33913423d@macro-eurusd": {
+  "country": "EUR",
+  "date": "2026-11-20T03:15:00-05:00",
+  "forecast": "",
+  "impact": "Medium",
+  "previous": "",
+  "title": "ECB President Lagarde Speaks"
+ },
  "31c887edc0c14fb79382@macro-eurusd": {
   "country": "USD",
   "date": "2026-10-08T08:30:00-04:00",
@@ -110,6 +126,22 @@
   "impact": "Medium",
   "previous": "46.3",
   "title": "Revised UoM Consumer Sentiment"
+ },
+ "44581be47b3af0722170@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-11-20T10:00:00-05:00",
+  "forecast": "52.1",
+  "impact": "Medium",
+  "previous": "51.0",
+  "title": "Revised UoM Consumer Sentiment"
+ },
+ "467cd0329c91012378c8@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-11-20T10:00:00-05:00",
+  "forecast": "",
+  "impact": "Medium",
+  "previous": "4.3%",
+  "title": "Revised UoM Inflation Expectations"
  },
  "4a7b528c3d38df727c73@macro-eurusd": {
   "country": "EUR",
@@ -255,6 +287,14 @@
   "previous": "6.2%",
   "title": "Advance GDP Price Index q/q"
  },
+ "9ba69651292dd7f6d4dc@macro-eurusd": {
+  "country": "EUR",
+  "date": "2026-11-18T04:00:00-05:00",
+  "forecast": "",
+  "impact": "Medium",
+  "previous": "",
+  "title": "ECB Financial Stability Review"
+ },
  "9bd88d798dcfcf013dc5@macro-eurusd": {
   "country": "EUR",
   "date": "2026-10-23T03:15:00-04:00",
@@ -270,6 +310,14 @@
   "impact": "High",
   "previous": "1.4%",
   "title": "Core Retail Sales m/m"
+ },
+ "9ed810865c75494f4e9e@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-11-16T12:00:00-05:00",
+  "forecast": "",
+  "impact": "High",
+  "previous": "",
+  "title": "Fed Chairman Warsh Speaks"
  },
  "a214f3c42e2c2538ab22@macro-eurusd": {
   "country": "EUR",
@@ -311,6 +359,14 @@
   "previous": "",
   "title": "Monetary Policy Statement"
  },
+ "adf00226128fbfc9d516@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-11-20T08:25:00-05:00",
+  "forecast": "",
+  "impact": "Medium",
+  "previous": "",
+  "title": "FOMC Member Waller Speaks"
+ },
  "af82f6717c659da8bdbb@macro-eurusd": {
   "country": "EUR",
   "date": "2026-11-12T14:30:00-05:00",
@@ -326,6 +382,14 @@
   "impact": "Medium",
   "previous": "7.08M",
   "title": "JOLTS Job Openings"
+ },
+ "b74964af0078da25a109@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-11-17T08:30:00-05:00",
+  "forecast": "0.2%",
+  "impact": "High",
+  "previous": "0.8%",
+  "title": "Retail Sales m/m"
  },
  "be6ee37602c1555c4bc9@macro-eurusd": {
   "country": "USD",
@@ -391,6 +455,14 @@
   "previous": "50.3",
   "title": "French Flash Manufacturing PMI"
  },
+ "cac474de7ef9918b9ac3@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-11-19T08:30:00-05:00",
+  "forecast": "199K",
+  "impact": "Medium",
+  "previous": "200K",
+  "title": "Unemployment Claims"
+ },
  "cdae65bfe06f8ec1e9d4@macro-eurusd": {
   "country": "EUR",
   "date": "2026-11-11T04:45:00-05:00",
@@ -423,6 +495,14 @@
   "previous": "",
   "title": "FOMC Member Waller Speaks"
  },
+ "d6c6882a5190401cbfce@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-11-19T08:30:00-05:00",
+  "forecast": "19.2",
+  "impact": "Medium",
+  "previous": "20.9",
+  "title": "Philly Fed Manufacturing Index"
+ },
  "dfd8747edf319c749529@macro-eurusd": {
   "country": "USD",
   "date": "2026-10-28T14:00:00-04:00",
@@ -430,6 +510,22 @@
   "impact": "High",
   "previous": "4.00%",
   "title": "Federal Funds Rate"
+ },
+ "e0d69b1adb60db4f633a@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-11-18T14:00:00-05:00",
+  "forecast": "",
+  "impact": "High",
+  "previous": "",
+  "title": "FOMC Meeting Minutes"
+ },
+ "e55735fd75d8395062ee@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-11-17T08:30:00-05:00",
+  "forecast": "0.4%",
+  "impact": "High",
+  "previous": "0.9%",
+  "title": "Core Retail Sales m/m"
  },
  "e67c0b81b2408236fd4d@macro-eurusd": {
   "country": "USD",
@@ -454,6 +550,14 @@
   "impact": "Medium",
   "previous": "3.8%",
   "title": "CPI Flash Estimate y/y"
+ },
+ "ee425c74aafc5041adda@macro-eurusd": {
+  "country": "EUR",
+  "date": "2026-11-19T08:30:00-05:00",
+  "forecast": "",
+  "impact": "Medium",
+  "previous": "",
+  "title": "ECB President Lagarde Speaks"
  },
  "ef254651dcc5f99fcdb9@macro-eurusd": {
   "country": "USD",
