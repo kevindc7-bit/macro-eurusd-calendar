@@ -130,7 +130,7 @@
  "44581be47b3af0722170@macro-eurusd": {
   "country": "USD",
   "date": "2026-11-20T10:00:00-05:00",
-  "forecast": "52.1",
+  "forecast": "51.7",
   "impact": "Medium",
   "previous": "51.0",
   "title": "Revised UoM Consumer Sentiment"
@@ -458,7 +458,7 @@
  "cac474de7ef9918b9ac3@macro-eurusd": {
   "country": "USD",
   "date": "2026-11-19T08:30:00-05:00",
-  "forecast": "199K",
+  "forecast": "198K",
   "impact": "Medium",
   "previous": "200K",
   "title": "Unemployment Claims"
@@ -498,7 +498,7 @@
  "d6c6882a5190401cbfce@macro-eurusd": {
   "country": "USD",
   "date": "2026-11-19T08:30:00-05:00",
-  "forecast": "19.2",
+  "forecast": "20.6",
   "impact": "Medium",
   "previous": "20.9",
   "title": "Philly Fed Manufacturing Index"
