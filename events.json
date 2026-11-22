@@ -47,6 +47,14 @@
   "previous": "2.4%",
   "title": "Core CPI y/y"
  },
+ "20339fd653c763991a4f@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-11-24T10:00:00-05:00",
+  "forecast": "92.1",
+  "impact": "Medium",
+  "previous": "91.7",
+  "title": "CB Consumer Confidence"
+ },
  "2149e1a4074cf0e0c28a@macro-eurusd": {
   "country": "USD",
   "date": "2026-11-20T12:00:00-05:00",
@@ -70,6 +78,14 @@
   "impact": "Medium",
   "previous": "",
   "title": "ECB President Lagarde Speaks"
+ },
+ "2bc71bd7aebaff202548@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-11-23T09:45:00-05:00",
+  "forecast": "54.5",
+  "impact": "Medium",
+  "previous": "56.0",
+  "title": "Flash Manufacturing PMI"
  },
  "31c887edc0c14fb79382@macro-eurusd": {
   "country": "USD",
@@ -206,6 +222,14 @@
   "impact": "High",
   "previous": "4.2%",
   "title": "Unemployment Rate"
+ },
+ "5df1f5bb0f6546dd2796@macro-eurusd": {
+  "country": "EUR",
+  "date": "2026-11-23T03:30:00-05:00",
+  "forecast": "54.1",
+  "impact": "Medium",
+  "previous": "54.2",
+  "title": "German Flash Manufacturing PMI"
  },
  "6fdf8defc2716333a7e0@macro-eurusd": {
   "country": "USD",
@@ -383,6 +407,14 @@
   "previous": "",
   "title": "ECB President Lagarde Speaks"
  },
+ "b028b610f15295d7e156@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-11-25T08:30:00-05:00",
+  "forecast": "3.5%",
+  "impact": "High",
+  "previous": "3.4%",
+  "title": "Prelim GDP q/q"
+ },
  "b3aefc074d295945ce79@macro-eurusd": {
   "country": "USD",
   "date": "2026-11-03T10:00:00-05:00",
@@ -398,6 +430,14 @@
   "impact": "High",
   "previous": "0.8%",
   "title": "Retail Sales m/m"
+ },
+ "b965f2f2c56eb67dc27c@macro-eurusd": {
+  "country": "EUR",
+  "date": "2026-11-23T03:30:00-05:00",
+  "forecast": "52.4",
+  "impact": "Medium",
+  "previous": "51.7",
+  "title": "German Flash Services PMI"
  },
  "be6ee37602c1555c4bc9@macro-eurusd": {
   "country": "USD",
@@ -463,6 +503,14 @@
   "previous": "50.3",
   "title": "French Flash Manufacturing PMI"
  },
+ "c9f6b5fd991eeaa94542@macro-eurusd": {
+  "country": "EUR",
+  "date": "2026-11-23T03:15:00-05:00",
+  "forecast": "47.4",
+  "impact": "Medium",
+  "previous": "48.4",
+  "title": "French Flash Services PMI"
+ },
  "cac474de7ef9918b9ac3@macro-eurusd": {
   "country": "USD",
   "date": "2026-11-19T08:30:00-05:00",
@@ -502,6 +550,14 @@
   "impact": "Medium",
   "previous": "",
   "title": "FOMC Member Waller Speaks"
+ },
+ "d40fb243230c2003f7b4@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-11-23T09:45:00-05:00",
+  "forecast": "55.6",
+  "impact": "Medium",
+  "previous": "57.9",
+  "title": "Flash Services PMI"
  },
  "d6c6882a5190401cbfce@macro-eurusd": {
   "country": "USD",
@@ -558,6 +614,14 @@
   "impact": "Medium",
   "previous": "3.8%",
   "title": "CPI Flash Estimate y/y"
+ },
+ "e90a6f140871c143f2bc@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-11-25T08:30:00-05:00",
+  "forecast": "0.3%",
+  "impact": "High",
+  "previous": "0.3%",
+  "title": "Core PCE Price Index m/m"
  },
  "ee425c74aafc5041adda@macro-eurusd": {
   "country": "EUR",
@@ -623,6 +687,14 @@
   "previous": "0.3%",
   "title": "Core CPI m/m"
  },
+ "fcb05596e9ca2e37321b@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-11-25T08:30:00-05:00",
+  "forecast": "2.3%",
+  "impact": "Medium",
+  "previous": "2.3%",
+  "title": "Prelim GDP Price Index q/q"
+ },
  "fcb2253c02b3ac6fa402@macro-eurusd": {
   "country": "USD",
   "date": "2026-11-04T10:00:00-05:00",
@@ -638,5 +710,21 @@
   "impact": "Medium",
   "previous": "194K",
   "title": "Unemployment Claims"
+ },
+ "fcd9bf6e21744fc0ac15@macro-eurusd": {
+  "country": "USD",
+  "date": "2026-11-25T08:30:00-05:00",
+  "forecast": "201K",
+  "impact": "Medium",
+  "previous": "203K",
+  "title": "Unemployment Claims"
+ },
+ "fef7fb6eefe205dce4cd@macro-eurusd": {
+  "country": "EUR",
+  "date": "2026-11-23T03:15:00-05:00",
+  "forecast": "49.8",
+  "impact": "Medium",
+  "previous": "49.3",
+  "title": "French Flash Manufacturing PMI"
  }
 }
